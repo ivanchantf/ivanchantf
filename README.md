@@ -18,6 +18,6 @@
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/b4bc7d37-002e-404a-8102-15689ea05b2f"   width=40 height=40 alt="git"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/22d400b0-abdf-4543-8b22-337332c32445"   width=40 height=40 alt="vs"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/931f80ea-0837-4dce-8760-38213c041315"   width=40 height=40 alt="vscode"/>
-
-<p align='left'>To know more about me, please visit <a href="https://ivanenergy.github.io/"><strong>MY WEBSITE</strong></a> for further details. You can leave a message  for me there as well! </p>
+<hr>
+<h3 align='left'>To know more about me, please visit <a href="https://ivanenergy.github.io/"><strong>MY WEBSITE</strong></a> for further details. You can leave a message  for me there as well! </h3>
 
