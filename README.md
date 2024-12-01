@@ -9,8 +9,10 @@
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/78ae35a2-3fec-4b8f-b5e3-d567c4556a8d"   width=40 height=40 alt="js"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/be7f8836-fc0b-4e8e-9a19-72c4d528b11e"   width=40 height=40 alt="react"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/6ef7b761-77a5-45f9-8d9e-cc087f217f34"   width=40 height=40 alt="react-native"/>
+<img src="[https://github.com/IvanENERGY/IvanENERGY/assets/90034836/6ef7b761-77a5-45f9-8d9e-cc087f217f34](https://github.com/user-attachments/assets/32196cbc-138b-4d8e-bf85-7a80412ad4cf)"   width=40 height=40 alt="angular"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/2fcd1e1b-f5b7-4ca1-b4e7-6406663daa7f"   width=40 height=40 alt="node"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/aba2d9bc-134d-4ba9-95a1-f0ce2d89e17a"   width=40 height=40 alt="express"/>
+<img src="[https://github.com/IvanENERGY/IvanENERGY/assets/90034836/aba2d9bc-134d-4ba9-95a1-f0ce2d89e17a](https://github.com/user-attachments/assets/b1fe3b2c-9598-42b8-9c18-d631fbfff664)"   width=40 height=40 alt="nest"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/6cee9e8d-5ca2-41ef-afe2-f92a91986e46"   width=40 height=40 alt="dotnet"/ >
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/3fe38247-3c87-43e8-be12-bc1af444a832"   width=40 height=40 alt="mssql"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/5a83950f-7bf5-43e7-92be-cdfde7aa145b"   width=40 height=40 alt="mongo"/>
