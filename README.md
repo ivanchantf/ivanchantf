@@ -21,5 +21,5 @@
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/22d400b0-abdf-4543-8b22-337332c32445"   width=40 height=40 alt="vs"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/931f80ea-0837-4dce-8760-38213c041315"   width=40 height=40 alt="vscode"/>
 <hr>
-<h3 align='left'>&#128173;To know more about me, you are welcome to visit <a href="https://ivanenergy.github.io/"><strong>MY WEBSITE</strong></a> for further details. You can leave a message for me there as well! </h3>
+<h3 align='left'>&#128173;If you’d like to learn more about me, I warmly invite you to visit <a href="https://ivanenergy.github.io/"><strong>MY WEBSITE</strong></a>, where you can find further details. I would also be delighted to receive any messages you’d like to share there! </h3>
 
