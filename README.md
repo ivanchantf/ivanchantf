@@ -1,7 +1,7 @@
 <h1 align='center'>Hi 👋 I am Ivan Chan.  <img src="https://github.com/user-attachments/assets/ee80c7d3-0e11-494b-be19-196e9694eeb9" align="right"  width=100 height=100/></h1>
 
 <p align='left'>I am a ... </p>
-<ul align='left'><li>👨🏻‍💻 Software Engineer</li><li>🌐 Fullstack Web Developer</li>  <li>📱 Fullstack Mobile Developer</li>  <li>👨‍🎓 Computer Science Graduate (with First Class Honors)</li></ul>
+<ul align='left'><li>👨🏻‍💻 Software Engineer</li><li>🌐📱 Fullstack Web / Mobile Developer</li>   <li>👨‍🎓 Computer Science Graduate (with First Class Honors)</li></ul>
 
 <h6 align='left'>My tools: </h6>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/018fa8d8-2a61-4b2b-b923-2028cd1bc534"   width=40 height=40 alt="android"/ >
