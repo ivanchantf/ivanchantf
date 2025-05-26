@@ -4,7 +4,7 @@
 🌐 **Specializing in Web and Mobile Development**  
 🎓 **Computer Science Graduate with First Class Honors**
 
-I have experience with a variety of technologies, including but not limited to:  
+I have experience with a variety of tools/technologies, including but not limited to:  
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/78ae35a2-3fec-4b8f-b5e3-d567c4556a8d" width=40 height=40 alt="js"/> 
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/be7f8836-fc0b-4e8e-9a19-72c4d528b11e" width=40 height=40 alt="react"/> 
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/6ef7b761-77a5-45f9-8d9e-cc087f217f34" width=40 height=40 alt="react-native"/> 
