@@ -1,6 +1,6 @@
 <h1 align='center'>Hello 👋 I am Ivan Chan.  <!--<img src="https://github.com/user-attachments/assets/ee80c7d3-0e11-494b-be19-196e9694eeb9" align="right"  width=100 height=100/>--></h1>
 
-<p align='left'>I am a ... </p>
+<h3 align='left'>I am a ... </h3>
 <ul align='left'><li>👨🏻‍💻 Fullstack  Software Engineer (🌐Web / 📱Mobile) </li>   <li>👨‍🎓 Computer Science Graduate (@CityUHK, First Class Honors)</li></ul>
 
 <h6 align='left'>My tools: </h6>
