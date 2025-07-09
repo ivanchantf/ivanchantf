@@ -1,9 +1,9 @@
-<h1 align='center'>Hello 👋 I am Ivan Chan.  <!--<img src="https://github.com/user-attachments/assets/ee80c7d3-0e11-494b-be19-196e9694eeb9" align="right"  width=100 height=100/>--></h1>
+<h1 align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&width=435&lines=Tsz+Fung+Chan+%2C+Ivan" alt="Typing SVG" />  <!--<img src="https://github.com/user-attachments/assets/ee80c7d3-0e11-494b-be19-196e9694eeb9" align="right"  width=100 height=100/>--></h1>
 
-<h3 align='left'>I am a ... </h3>
+<h3 align='left'>is a ... </h3>
 <ul align='left'><li>👨🏻‍💻 Software Engineer (Fullstack, 🌐Web / 📱Mobile) </li>   <li>👨‍🎓 Computer Science Graduate (@CityUHK, First Class Honours)</li></ul>
 
-<h6 align='left'>My tools: </h6>
+<h6 align='left'>Skills/Tools: </h6>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/018fa8d8-2a61-4b2b-b923-2028cd1bc534"   width=40 height=40 alt="android"/ >
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/ca78a560-3ad3-4335-913f-5faa120f3c2a"   width=40 height=40 alt="java"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/78ae35a2-3fec-4b8f-b5e3-d567c4556a8d"   width=40 height=40 alt="js"/>
@@ -21,4 +21,4 @@
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/22d400b0-abdf-4543-8b22-337332c32445"   width=40 height=40 alt="vs"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/931f80ea-0837-4dce-8760-38213c041315"   width=40 height=40 alt="vscode"/>
 <hr>
-<h3 align='left'>&#128173; To learn more about my work, please visit  <a href="https://ivanchantf.github.io/"><strong>my website</strong></a> . </h3>
+<h3 align='left'>&#128173; To learn more about his work, please visit  <a href="https://ivanchantf.github.io/"><strong>ivanchantf.github.io</strong></a> . </h3>
