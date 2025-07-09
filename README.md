@@ -1,6 +1,6 @@
 <!--<h1 align='center'><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&width=435&lines=Tsz+Fung+Chan+%2C+Ivan" alt="Typing SVG" />  <!--<img src="https://github.com/user-attachments/assets/ee80c7d3-0e11-494b-be19-196e9694eeb9" align="right"  width=100 height=100/>--></h1>
 <h1 align='center' style="display: flex; justify-content: center; align-items: center; height: 100vh; font-family: 'Fira Code'; font-size: 20px;color:#36BCF7FF;">
-    Tsz Fung Chan , Ivan
+    Chan Tsz Fung, Ivan
 </h1>
 <h3 align='left'>is a ... </h3>
 <ul align='left'><li>👨🏻‍💻 Software Engineer (Fullstack, 🌐Web / 📱Mobile) </li>   <li>👨‍🎓 Computer Science Graduate (@CityUHK, First Class Honours)</li></ul>
