@@ -2,7 +2,7 @@
 <h1 align='center' style="display: flex; justify-content: center; align-items: center; height: 100vh; font-family: 'Fira Code'; font-size: 20px;color:#36BCF7FF;">
     Chan Tsz Fung, Ivan
 </h1>
-<h3 align='left'>is a ... </h3>
+<h3 align='left'>is a  </h3>
 <ul align='left'><li>👨🏻‍💻 Software Engineer (Fullstack, 🌐Web / 📱Mobile) </li>   <li>👨‍🎓 Computer Science Graduate (@CityUHK, First Class Honours)</li></ul>
 
 <h6 align='left'>Skills/Tools: </h6>
