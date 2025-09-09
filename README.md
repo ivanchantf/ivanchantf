@@ -15,7 +15,6 @@
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/2fcd1e1b-f5b7-4ca1-b4e7-6406663daa7f"   width=40 height=40 alt="node"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/aba2d9bc-134d-4ba9-95a1-f0ce2d89e17a"   width=40 height=40 alt="express"/>
 <img src="https://github.com/user-attachments/assets/b1fe3b2c-9598-42b8-9c18-d631fbfff664"   width=40 height=40 alt="nest"/>
-<img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/6cee9e8d-5ca2-41ef-afe2-f92a91986e46"   width=40 height=40 alt="dotnet"/ >
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/3fe38247-3c87-43e8-be12-bc1af444a832"   width=40 height=40 alt="mssql"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/5a83950f-7bf5-43e7-92be-cdfde7aa145b"   width=40 height=40 alt="mongo"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/286f952b-0201-431a-9eab-a41106d6d353"   width=40 height=40 alt="postman"/>
