@@ -23,4 +23,4 @@
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/22d400b0-abdf-4543-8b22-337332c32445"   width=40 height=40 alt="vs"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/931f80ea-0837-4dce-8760-38213c041315"   width=40 height=40 alt="vscode"/>
 <hr>
-<h3 align='left'>&#128173; To learn more about his work, please visit  <a href="https://ivanchantf.github.io/"><strong>ivanchantf.github.io</strong></a> . </h3>
+<h3 align='left'>	&#128279;  <a href="https://ivanchantf.github.io/"><strong>ivanchantf.github.io</strong></a>  </h3>
