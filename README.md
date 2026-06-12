@@ -3,7 +3,7 @@
     Chan Tsz Fung, Ivan
 </h1>
 <h3 align='left'>is a  </h3>
-<ul align='left'><li> 🔧 Software Engineer (Fullstack, Web / Mobile) </li>   <li> BSc Computer Science Graduate (@CityUHK, First Class Honours)</li></ul>
+<ul align='left'><li> 🔧 Software Engineer (Fullstack, Web / Mobile) </li>   <li> 🎓 BSc Computer Science Graduate (@CityUHK, First Class Honours)</li></ul>
 
 <h6 align='left'>Skills/Tools: </h6>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/018fa8d8-2a61-4b2b-b923-2028cd1bc534"   width=40 height=40 alt="android" style="display:inline;"/ >
