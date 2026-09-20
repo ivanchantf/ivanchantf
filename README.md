@@ -6,6 +6,7 @@
 <ul align='left'><li> 🛠️ Software Engineer (Fullstack, Web / Mobile) </li>   <li> 🎓 BSc Computer Science Graduate (@CityUHK, First Class Honours)</li></ul>
 
 <h6 align='left'>Skills/Tools: </h6>
+<img  src="https://github.com/user-attachments/assets/4f2cd769-dd0b-4c9d-bad6-956ae3f285a0" width=40 height=40 alt="android" style="display:inline;" />
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/018fa8d8-2a61-4b2b-b923-2028cd1bc534"   width=40 height=40 alt="android" style="display:inline;"/ >
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/ca78a560-3ad3-4335-913f-5faa120f3c2a"   width=40 height=40 alt="java" style="display:inline;"/>
 <img src="https://github.com/IvanENERGY/IvanENERGY/assets/90034836/78ae35a2-3fec-4b8f-b5e3-d567c4556a8d"   width=40 height=40 alt="js" style="display:inline;"/>
