@@ -3,7 +3,7 @@
     Chan Tsz Fung, Ivan
 </h1>
 <h3 align='left'>is a  </h3>
-<ul align='left'><li> 🛠️ Software Engineer (Fullstack, Web / Mobile) </li>   <li> 🎓 BSc Computer Science Graduate (@CityUHK, First Class Honours)</li></ul>
+<ul align='left'><li> 🛠️ FullStack Developer </li>   <li> 🎓 BSc Computer Science Graduate (@CityUHK, First Class Honours)</li></ul>
 
 <h6 align='left'>Skills/Tools: </h6>
 <img  src="https://github.com/user-attachments/assets/4f2cd769-dd0b-4c9d-bad6-956ae3f285a0" width=40 height=40 alt="android" style="display:inline;" />
